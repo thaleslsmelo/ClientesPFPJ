@@ -1,0 +1,15 @@
+C:\Users\felip\OneDrive\Área de Trabalho\ClientLab\controlecliente\bin\Debug\net6.0\ControleCliente.exe
+C:\Users\felip\OneDrive\Área de Trabalho\ClientLab\controlecliente\bin\Debug\net6.0\ControleCliente.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\ClientLab\controlecliente\bin\Debug\net6.0\ControleCliente.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\ClientLab\controlecliente\bin\Debug\net6.0\ControleCliente.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ClientLab\controlecliente\bin\Debug\net6.0\ControleCliente.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\ClientLab\controlecliente\obj\Debug\net6.0\ControleCliente.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ClientLab\controlecliente\obj\Debug\net6.0\ControleCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\ClientLab\controlecliente\obj\Debug\net6.0\ControleCliente.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ClientLab\controlecliente\obj\Debug\net6.0\ControleCliente.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\ClientLab\controlecliente\obj\Debug\net6.0\ControleCliente.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ClientLab\controlecliente\obj\Debug\net6.0\ControleCliente.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ClientLab\controlecliente\obj\Debug\net6.0\refint\ControleCliente.dll
+C:\Users\felip\OneDrive\Área de Trabalho\ClientLab\controlecliente\obj\Debug\net6.0\ControleCliente.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\ClientLab\controlecliente\obj\Debug\net6.0\ControleCliente.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Área de Trabalho\ClientLab\controlecliente\obj\Debug\net6.0\ref\ControleCliente.dll
